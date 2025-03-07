@@ -929,7 +929,7 @@ section,
   display: flex;
   flex-direction: column;
   gap: 0.5rem;
-  about .personal-info .info-ite
+  word-break: break-word;
 }
 
 .about .personal-info .info-item .label {
