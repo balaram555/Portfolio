@@ -929,6 +929,7 @@ section,
   display: flex;
   flex-direction: column;
   gap: 0.5rem;
+  about .personal-info .info-ite
 }
 
 .about .personal-info .info-item .label {
@@ -960,11 +961,6 @@ section,
   font-size: 0.875rem;
   color: color-mix(in srgb, var(--default-color), transparent 40%);
   margin: 0;
-}
-@media (max-width: 576px) {
-  .about .personal-info .info-item .value {
-    font-size: 0.6rem; 
-  }
 }
 
 /*--------------------------------------------------------------
